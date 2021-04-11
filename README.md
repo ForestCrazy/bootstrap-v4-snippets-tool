@@ -1,7 +1,7 @@
 # Bootstrap v4 Snippets for VS Code
 
-![release badge](https://img.shields.io/github/release/ForestCrazy/bootstrap-v4-snippets-tool.svg)
-![license badge](https://img.shields.io/github/license/ForestCrazy/bootstrap-v4-snippets-tool.svg)
+![release badge](https://img.shields.io/github/v/release/ForestCrazy/bootstrap-v4-snippets-tool)
+![license badge](https://img.shields.io/github/license/ForestCrazy/bootstrap-v4-snippets-tool)
 
 A pack of **115** code snippets for Bootstrap toolkit.  
 Latest supported version: *v4.3.1*
