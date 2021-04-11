@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">${1:Brand}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="#">${2:Item_1}</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="#">${3:Item_2}</a>
+            </li>
+        </ul>
+
+        <style>
+            .user-avatar-md {
+                height: 32px;
+                width: 32px
+            }
+        </style>
+        <div class="dropdown">
+            <a class="nav-link dropdown-toggle pl-0" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img src="$4" alt="" class="user-avatar-md rounded-circle"> ${5:Username}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">$6</a>
+                <a class="dropdown-item" href="#">$7</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">$8</a>
+            </div>
+        </div>
+    </div>
+</nav>

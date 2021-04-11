@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace bootstrap_v4_snippets_build
+namespace bootstrap_v4_snippets_pack_build
 {
     public static class Program
     {
