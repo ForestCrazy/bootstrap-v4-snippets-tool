@@ -1,9 +1,9 @@
 {
     "name": "bootstrap-v4-snippets-tool",
-    "displayName": "Bootstrap v4 Snippets Tool",
-    "description": "Bootstrap v4 Snippets Tool for VS Code",
+    "displayName": "Bootstrap 4 Snippets Tool",
+    "description": "Bootstrap 4 Snippets Tool for VS Code",
     "icon": "images/icon.png",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "ForestCrazy",
     "engines": {
         "vscode": "^1.10.0"
