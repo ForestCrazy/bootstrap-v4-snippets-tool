@@ -1,10 +1,10 @@
 <h3 style="text-align: center;">${1:Post}</h3>
-<form action="" method="${2:|GET,POST|}">
+<form action="$2" method="${3:|GET,POST|}" enctype="multipart/form-data">
     <div class="form-group">
-        <input type="file" name="${3:up}" class="form-control" required>
+        <input type="file" name="${4:up}" class="form-control" required>
     </div>
     <div class="form-group">
-        <textarea class="form-control" rows="5" name="${4:post_msg}"></textarea>
+        <textarea class="form-control" rows="5" name="${5:post_msg}"></textarea>
     </div>
     <button type="submit" class="btn btn-success col-12" name="submit_post">${1:Post}</button>
 </form>
