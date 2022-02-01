@@ -3,7 +3,7 @@
     "displayName": "Bootstrap 4 Snippets Tool",
     "description": "Bootstrap 4 Snippets Tool for VS Code",
     "icon": "images/icon.png",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "ForestCrazy",
     "engines": {
         "vscode": "^1.10.0"
